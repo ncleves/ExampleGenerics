@@ -1,0 +1,6 @@
+c:\users\asilverstein\documents\visual studio 2013\Projects\MentorshipPlayingAround\MentorshipPlayingAround\bin\Debug\MentorshipPlayingAround.exe.config
+c:\users\asilverstein\documents\visual studio 2013\Projects\MentorshipPlayingAround\MentorshipPlayingAround\bin\Debug\MentorshipPlayingAround.exe
+c:\users\asilverstein\documents\visual studio 2013\Projects\MentorshipPlayingAround\MentorshipPlayingAround\bin\Debug\MentorshipPlayingAround.pdb
+c:\users\asilverstein\documents\visual studio 2013\Projects\MentorshipPlayingAround\MentorshipPlayingAround\obj\Debug\MentorshipPlayingAround.csprojResolveAssemblyReference.cache
+c:\users\asilverstein\documents\visual studio 2013\Projects\MentorshipPlayingAround\MentorshipPlayingAround\obj\Debug\MentorshipPlayingAround.exe
+c:\users\asilverstein\documents\visual studio 2013\Projects\MentorshipPlayingAround\MentorshipPlayingAround\obj\Debug\MentorshipPlayingAround.pdb
